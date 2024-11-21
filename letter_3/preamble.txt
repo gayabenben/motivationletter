@@ -1,0 +1,10 @@
+\\documentclass[12pt,a4paper]{lettre}
+\\usepackage[utf8]{inputenc}
+\\usepackage[T1]{fontenc}
+\\usepackage[english]{babel}
+\\usepackage{fourier}
+
+\\usepackage{geometry}
+\\geometry{hmargin=1.5cm,vmargin=2.5cm}
+\\def\\concname{{\\hspace{{-1.5cm}}Objet :~}}
+

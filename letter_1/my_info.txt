@@ -1,0 +1,12 @@
+\name{M. \textsc{Benane} Gaya}\\
+\address{M. \textsc{Benane} Gaya\\
+171 Avenue de Luminy\\
+Logement EF38\\
+13~009~\textsc{Marseille}}  
+
+\signature{ Gaya \textsc{Benane}}
+\lieu{\textsc{Marseille}}
+\nofax
+\date{\today}
+\telephone{+33~(0)~668~056~434}
+\email{\href{mailto:gaya.benane@outlook.fr}{gaya.benane@outlook.fr}}

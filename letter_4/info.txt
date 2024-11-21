@@ -1,0 +1,11 @@
+\\name{{M. \\textsc{{Benane}} Gaya}}
+\\address{{M. \\textsc{{Benane}} Gaya\\\\ 
+    171 Avenue de Luminy\\\\
+    Logement EF38\\\\
+    13~009~\\textsc{{Marseille}}}}  
+\\signature{{\\textsc{{Benane}} Gaya}}
+\\lieu{{\\textsc{{Marseille}}}}
+\\date{{\\today}}
+
+\\telephone{{06~68~05~64~34}}
+\\email{{gaya.benane@outlook.fr}}

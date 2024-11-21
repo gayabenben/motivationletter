@@ -1,0 +1,8 @@
+\opening{{\hspace{{1em}} Dear {recruter_name},}}
+\hspace{{1em}}
+I am excited to submit my application for the {position_name} position at {company_name} as advertised. My journey through a Ph.D. in Particle Physics, enhanced by a solid foundation in mathematics and physics, has equipped me with a deep analytical mindset and exceptional problem-solving skills.
+
+\hspace{{1em}}
+During my academic and research tenure, I specialized in particle physics, where I mastered statistical analysis, data visualization, and the development of sophisticated simulation models—key competencies for a {position_name}. My ability to extract patterns and insights from large datasets is directly applicable to the challenges in data science.
+My education at École Polytechnique ($\ell$’X), with its rigorous curriculum and focus on innovation, further strengthened my skills in applied mathematics and computer science. This experience instilled in me a balanced approach of creativity and analytical rigor, crucial for advancing in artificial intelligence.
+

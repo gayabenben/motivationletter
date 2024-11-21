@@ -1,0 +1,9 @@
+\name{{{my_title} {my_name}}}\\
+\address{{{my_name}\\ {my_address}\\ {my_postcode}~{my_town}}}  
+
+\signature{{{my_name}}}
+\lieu{{{my_town}}}
+\nofax
+\date{{\today}}
+\telephone{{ {my_phone} }}
+\email{{\href{{mailto:{my_mail}}}{{{my_mail}}}}}

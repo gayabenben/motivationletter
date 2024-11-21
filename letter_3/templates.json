@@ -1,0 +1,3 @@
+{
+    "letter_template": "\\begin{document}\\n\\begin{letter}{ {receiver_info} }{ {object} }{ {body} }{ {closing} }\\n\\end{letter}\\n\\end{document}"
+}
